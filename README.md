@@ -15,9 +15,10 @@ are there in your text.
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/77974149/130343228-956f0bda-2d41-43f3-a80d-9100bff9323b.png)
-![image](https://user-images.githubusercontent.com/77974149/130343270-f58fc748-d814-4cf2-92f5-07b53451936d.png)
-![image](https://user-images.githubusercontent.com/77974149/130343288-9df3c767-ac83-41f6-a75c-eb6c43fd75b4.png)
+![image](https://user-images.githubusercontent.com/77974149/135884041-d32ff3a8-b015-4cba-9ad3-cb05c7316a32.png)
+![image](https://user-images.githubusercontent.com/77974149/135884320-d06a647b-fda8-43dd-a7f1-d87a928795f1.png)
+![image](https://user-images.githubusercontent.com/77974149/135884425-fcab85dd-c15b-4000-a626-1bcd823b88fa.png)
+![image](https://user-images.githubusercontent.com/77974149/135884491-299d65d1-90c4-4945-9d3a-950dc7354546.png)
 
 
 ## Tech Stack
