@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Text-Formatter/static/css/main.8b903a44.chunk.css",
+    "main.js": "/Text-Formatter/static/js/main.7d1da73d.chunk.js",
+    "main.js.map": "/Text-Formatter/static/js/main.7d1da73d.chunk.js.map",
+    "runtime-main.js": "/Text-Formatter/static/js/runtime-main.2975c360.js",
+    "runtime-main.js.map": "/Text-Formatter/static/js/runtime-main.2975c360.js.map",
+    "static/js/2.ae255204.chunk.js": "/Text-Formatter/static/js/2.ae255204.chunk.js",
+    "static/js/2.ae255204.chunk.js.map": "/Text-Formatter/static/js/2.ae255204.chunk.js.map",
+    "static/js/3.dfa18c83.chunk.js": "/Text-Formatter/static/js/3.dfa18c83.chunk.js",
+    "static/js/3.dfa18c83.chunk.js.map": "/Text-Formatter/static/js/3.dfa18c83.chunk.js.map",
+    "index.html": "/Text-Formatter/index.html",
+    "static/css/main.8b903a44.chunk.css.map": "/Text-Formatter/static/css/main.8b903a44.chunk.css.map",
+    "static/js/2.ae255204.chunk.js.LICENSE.txt": "/Text-Formatter/static/js/2.ae255204.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2975c360.js",
+    "static/js/2.ae255204.chunk.js",
+    "static/css/main.8b903a44.chunk.css",
+    "static/js/main.7d1da73d.chunk.js"
+  ]
+}
